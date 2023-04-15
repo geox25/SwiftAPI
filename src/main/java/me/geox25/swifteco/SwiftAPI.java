@@ -36,4 +36,9 @@ public interface SwiftAPI {
     Gets the balance of a bank account
      */
     public double getBalance(String account);
+
+    /*
+    Sets the balance of a bank account
+     */
+    public void setBalance(String account, double balance);
 }
