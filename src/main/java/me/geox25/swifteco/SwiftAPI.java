@@ -15,6 +15,7 @@ public interface SwiftAPI {
     Gets a property of a bank account
      */
     public String getAccountProperty(String path);
+    public double getAccountDoubleProperty(String path);
 
     /*
     Checks if a bank account exists
