@@ -6,7 +6,7 @@
 
     <groupId>com.github.geox25</groupId>
     <artifactId>SwiftAPI</artifactId>
-    <version>1.0.0-beta</version>
+    <version>1.0.2-beta</version>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
