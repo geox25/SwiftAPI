@@ -8,13 +8,16 @@ public interface SwiftAPI {
     Sets a property of a bank account
      */
     public void setAccountProperty(String path, String prop);
+    
     public void setAccountProperty(String path, int prop);
+    
     public void setAccountProperty(String path, double prop);
 
     /*
     Gets a property of a bank account
      */
     public String getAccountProperty(String path);
+    
     public double getAccountDoubleProperty(String path);
 
     /*
