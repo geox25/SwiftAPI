@@ -3,6 +3,9 @@
 
 Allows other plugins to interact with the SwiftEco economy plugin.
 
+How to include in your project:
+https://jitpack.io/#geox25/SwiftAPI
+
 Example Usage:
 ```java
 // imports ...
